@@ -1,0 +1,10 @@
+lxml==4.3.3
+opencv-python==4.0.0.21
+pyOpenSSL==18.0.0
+pyparsing==2.2.0
+PySocks==1.6.8
+pytesseract==0.2.6
+requests==2.19.1
+unicodecsv==0.14.1
+Wand==0.5.2
+selenium==3.141.0
